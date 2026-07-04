@@ -2,7 +2,7 @@
 
 ## Objective
 Analyse Indian domestic business class flight prices from EaseMyTrip to understand what drives pricing differences across airlines, stops, and cities.
-
+This is a learning project
 ---
 
 ## Dataset
